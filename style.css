@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+.header {
+    background-image: url("https://e7.pngegg.com/pngimages/181/518/png-clipart-green-leafed-plant-illustration-vine-plant-raster-graphics-vines-are-available-for-free-free-logo-design-template-leaf.png");
+    width: 100%;
+    height: 110vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hero {
+    padding: 60px 100px;
+    line-height: 30px;
+}
+
+.hero h1 {
+    font-family: sans-serif;
+    line-height: 60px;
+}
+
+.hero p {
+    font-family: sans-serif;
+    font: 100px;
+}
+
+.btn:hover {
+    background-color: rgb(6, 6, 82);
+    color: white;
+}
+
+.card {
+    outline: none;
+    border: none;
+}
+
+.card-img-top {
+    width: 30%;
+
+}
+
+.container {
+    margin-top: 30px;
+}
